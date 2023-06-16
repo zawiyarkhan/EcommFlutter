@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "892298307384",
+    "project_id": "devil-wears-prada",
+    "storage_bucket": "devil-wears-prada.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:892298307384:android:310e69e1001f26832f83cd",
+        "android_client_info": {
+          "package_name": "com.example.devils_prada"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "892298307384-17plk0ukhais4hvmf5bd1broqnjh0m0v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCQU2aYrTI3P9A18Oblh7VuelqJO0xb3Wo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "892298307384-17plk0ukhais4hvmf5bd1broqnjh0m0v.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

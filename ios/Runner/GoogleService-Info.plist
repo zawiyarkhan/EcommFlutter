@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>501533285388-f253qd1ksdrdhaklv3n61pmgqpu7kcvo.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.501533285388-f253qd1ksdrdhaklv3n61pmgqpu7kcvo</string>
+	<key>API_KEY</key>
+	<string>AIzaSyAE42HDrhMcl-J5kUt0ZSV-p8m2AL0DgcA</string>
+	<key>GCM_SENDER_ID</key>
+	<string>501533285388</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.devilsPrada</string>
+	<key>PROJECT_ID</key>
+	<string>devils-wear-prada</string>
+	<key>STORAGE_BUCKET</key>
+	<string>devils-wear-prada.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:501533285388:ios:3ef8e7b9577a3bab81a229</string>
+</dict>
+</plist>
